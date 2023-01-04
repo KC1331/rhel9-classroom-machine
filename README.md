@@ -1,4 +1,4 @@
-###A simple classroom server setup based on real rhcsa exam server.
+-----------------A simple classroom server setup based on real rhcsa exam server.---------------------
 
     # - ntp is configured
     # - httpd is configured
